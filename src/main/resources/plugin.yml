@@ -1,0 +1,7 @@
+name: FoxLobby
+version: '${project.version}'
+main: me.max.foxlobby.FoxLobby
+api-version: '1.20'
+commands:
+  lobby:
+    description: lobby command.
